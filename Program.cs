@@ -3,7 +3,7 @@
 
 public class Money
 {
-    public decimal Amount { get; set; } // сума грошей
+    public decimal Amount { get; set; } 
 
     public Money(decimal amount)
     {
